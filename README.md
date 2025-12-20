@@ -1,6 +1,8 @@
-<h1 align="center">Hello, I'm Nadira a CS Student at Tarumanagara University</h1>
 
-###
+
+<h1 align="center">Hello, I'm Nadira a CS Student at Tarumanagara University !</h1>
+
+<p align="center">I'm Curently working on a Visual novel game and learning Python</p>
 
 <div align="center">
   <img width="12" />
@@ -16,13 +18,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=FBAED2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=FBAED2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 
 ###
