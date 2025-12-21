@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello, I'm Nadira a CS Student at Tarumanagara University !</h1>
 
-<p align="center">I'm Curently working on a Visual novel game and learning Python</p>
+<p align="center">I'm Curently working on a Visual novel game, learning Python and Java Script </p>
 
 <div align="center">
   <img width="12" />
